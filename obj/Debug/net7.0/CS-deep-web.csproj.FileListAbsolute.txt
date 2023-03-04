@@ -1,0 +1,15 @@
+C:\repos\CS-deep-web\bin\Debug\net7.0\CS-deep-web.exe
+C:\repos\CS-deep-web\bin\Debug\net7.0\CS-deep-web.deps.json
+C:\repos\CS-deep-web\bin\Debug\net7.0\CS-deep-web.runtimeconfig.json
+C:\repos\CS-deep-web\bin\Debug\net7.0\CS-deep-web.dll
+C:\repos\CS-deep-web\bin\Debug\net7.0\CS-deep-web.pdb
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.csproj.AssemblyReference.cache
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.AssemblyInfoInputs.cache
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.AssemblyInfo.cs
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.csproj.CoreCompileInputs.cache
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.dll
+C:\repos\CS-deep-web\obj\Debug\net7.0\refint\CS-deep-web.dll
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.pdb
+C:\repos\CS-deep-web\obj\Debug\net7.0\CS-deep-web.genruntimeconfig.cache
+C:\repos\CS-deep-web\obj\Debug\net7.0\ref\CS-deep-web.dll
